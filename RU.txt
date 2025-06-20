@@ -1,0 +1,9 @@
+<u>подчёркнутый</u>
+<s>зачёркнутый</s>
+<code>моноширинный</code>
+<i>курсив</i>
+<b>жирный</b>
+<blockquote>цитата</blockquote>
+<pre language="python">код</pre>
+<a href="https://github.com/SlothCodeClub">ссылка</a>
+<tg-spoiler>спойлер</tg-spoiler>

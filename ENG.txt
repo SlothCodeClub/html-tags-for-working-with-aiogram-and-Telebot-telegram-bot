@@ -1,0 +1,9 @@
+<u>underlined</u>
+<s>strikethrough</s>
+<code>monospaced</code>
+<i>italics</i>
+<b>Bold</b>
+<blockquote>quote</blockquote>
+<pre language="python">code</pre>
+<a href="https://github.com/SlothCodeClub">link</a>
+<tg-spoiler>spoiler</tg-spoiler>
